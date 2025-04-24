@@ -1,0 +1,10 @@
+$ lscpu 
+.
+.
+.
+    Thread(s) per core:   2
+    Core(s) per socket:   2
+    Socket(s):            1
+.
+.
+.
